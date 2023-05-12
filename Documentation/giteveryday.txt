@@ -120,8 +120,10 @@ A developer working as a participant in a group project needs to
 learn how to communicate with others, and uses these commands in
 addition to the ones needed by a standalone developer.
 
-  * linkgit:git-clone[1] from the upstream to prime your local
-    repository.
+  * yerel bölgenizi hazırlamak için yukarı akıştan linkgit:git-clone[1]
+    depo
+    .jjfkf
+    
 
   * linkgit:git-pull[1] and linkgit:git-fetch[1] from "origin"
     to keep up-to-date with the upstream.
